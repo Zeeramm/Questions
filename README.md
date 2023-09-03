@@ -1,12 +1,5 @@
-# Questions
+# Questions: Modeling path analysis for Longitudinal data
+hello everyone. I waould like to conduct a path analysis for longitudinal data with t = 13 (the model is attached below). can anybody help me on how to make a path model and analyze each individual at each time point? I am using R Studio.
+thanks for your help.
 
-
-Ask us questions about **anything** related to Open Source! To add your question, create an issue in this repository.
-
-Just a few guidelines to remember before you ask a question:
-
-- Ensure your question hasn't already been answered. If it has been answered but does not satisfy you, feel free to comment in the issue and we will re-open it.
-- Use a succinct title and description.
-- If your question has already been asked and answered adequately, please add a thumbs-up (or the emoji of your choice!) to the issue. This helps us in identifying common problems that people usually face.
-- Lastly, be civil and polite. :)
-
+![image](https://github.com/OpenSourceHelpCommunity/Questions/assets/143920210/3bd8e549-e92a-4c7b-bace-c02ab812f01c)
